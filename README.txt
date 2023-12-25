@@ -1,6 +1,6 @@
 Example_file.zip: Various formats of XRD data.
 
-Quick_start.pdf: A guide for installing and using iQual.
+manual.pdf: A guide for installing and using iQual.
 
 python-3.10.11-embed-amd64.zip: Python environment.
 
